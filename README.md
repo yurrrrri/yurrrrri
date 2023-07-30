@@ -26,7 +26,7 @@
 </div>
 
 ## 📞 Contact 📞
-<a href="mailto:yu_ri_son@naver.com"><img src="https://img.shields.io/badge/email-ffffff?style=for-the-badge&logo=Naver&logoColor=03C75A"></a>
+<a href="mailto:yu_ri_son@naver.com"><img src="https://img.shields.io/badge/yurison-ffffff?style=for-the-badge&logo=Naver&logoColor=03C75A"></a>
 
 ## 💻 Yuri's Study log 💻
 <a href="https://yurison.tistory.com/"><img src="https://img.shields.io/badge/Tistory-ffffff?style=for-the-badge&logo=Tistory&logoColor=000000"></a>

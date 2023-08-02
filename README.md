@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=black">
+  <img src="https://img.shields.io/badge/tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white">
   <br>
@@ -31,4 +32,4 @@
 ## 💻 Yuri's Study log 💻
 <a href="https://yurison.tistory.com/"><img src="https://img.shields.io/badge/Tistory-ffffff?style=for-the-badge&logo=Tistory&logoColor=000000"></a>
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=yurison&theme=default)](https://easyhomputer.tistory.com)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=yurison&theme=default)](https://yurison.tistory.com)

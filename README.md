@@ -2,6 +2,8 @@
 
 ![Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurrrrri&show_icons=true&theme=omni)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyurrrrri&count_bg=%23F859C0&title_bg=%2350003E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 

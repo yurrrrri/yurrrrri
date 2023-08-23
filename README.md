@@ -7,7 +7,7 @@
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">
   <img src="https://img.shields.io/badge/mongoDb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
   <br>
